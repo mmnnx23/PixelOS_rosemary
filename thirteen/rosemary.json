@@ -1,0 +1,23 @@
+{
+    "error": false,
+    "version": "thirteen",
+    "filename": "",
+    "datetime": 1689835604,
+    "size": 1834051005,
+    "url": "",
+    "github_releases_url": "PLACEHOLDER",
+    "fastboot_package_url": "PLACEHOLDER",
+    "filehash": "",
+    "id": "",
+    "maintainers": [
+        {
+            "main_maintainer": true,
+            "github_username": "mmnnx23",
+            "name": "mmnnx23(essek)"
+        }
+    ],
+    "donate_url": "PLACEHOLDER",
+    "website_url": "https://pixelos.net/",
+    "news_url": "https://blog.pixelos.net/",
+    "forum_url": "PLACEHOLDER"
+}

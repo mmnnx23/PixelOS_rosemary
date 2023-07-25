@@ -1,14 +1,14 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "",
-    "datetime": 1689835604,
-    "size": 1834051005,
-    "url": "",
+    "filename": "PixelOS_rosemary-13.0-20230725-0118.zip",
+    "datetime": 1690247213,
+    "size": 1613580645,
+    "url": "https://github.com/mmnnx23/PixelOS_rosemary/releases/download/1690247213/PixelOS_rosemary-13.0-20230725-0118.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "",
-    "id": "",
+    "filehash": "7bad91618eebdac0fb4933955e8af6d9",
+    "id": "caae8ed157e5b0457baaf3089b9343df66525a2dc3e604348bcac16c32551d41",
     "maintainers": [
         {
             "main_maintainer": true,

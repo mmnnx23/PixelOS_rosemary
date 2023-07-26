@@ -1,22 +1,22 @@
 {
     "error": false,
     "version": "thirteen",
-    "filename": "PixelOS_rosemary-13.0-20230725-0118.zip",
-    "datetime": 1690247213,
-    "size": 1613580645,
-    "url": "https://github.com/mmnnx23/PixelOS_rosemary/releases/download/1690247213/PixelOS_rosemary-13.0-20230725-0118.zip",
+    "filename": "PixelOS_rosemary-13.0-20230726-1541.zip",
+    "datetime": 1690385384,
+    "size": 1615095528,
+    "url": "https://github.com/mmnnx23/PixelOS_rosemary/releases/download/1690385384/PixelOS_rosemary-13.0-20230726-1541.zip",
     "github_releases_url": "PLACEHOLDER",
     "fastboot_package_url": "PLACEHOLDER",
-    "filehash": "7bad91618eebdac0fb4933955e8af6d9",
-    "id": "caae8ed157e5b0457baaf3089b9343df66525a2dc3e604348bcac16c32551d41",
+    "filehash": "0adde8738be0a1fa8b0394fe8cc20bf2",
+    "id": "d9497a6411a8e4d4b97554e7d6f2ec61e99e811f0d9740dadec6d3147f253c08",
     "maintainers": [
         {
             "main_maintainer": true,
             "github_username": "mmnnx23",
-            "name": "mmnnx23(essek)"
+            "name": "mmnnx23"
         }
     ],
-    "donate_url": "PLACEHOLDER",
+    "donate_url": "https://ppr.ist/oQnEQCmh",
     "website_url": "https://pixelos.net/",
     "news_url": "https://blog.pixelos.net/",
     "forum_url": "PLACEHOLDER"
